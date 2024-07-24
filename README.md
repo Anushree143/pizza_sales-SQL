@@ -1,0 +1,1 @@
+This project explores insights from data gathered from a pizza delivery service. By analyzing key metrics such as total orders, revenue, popular pizza types, and ordering patterns by time and category, we aim to uncover actionable insights for optimizing operational efficiency and maximizing revenue potential.
